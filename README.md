@@ -8,4 +8,6 @@
 
 ### BAEKJOON USERNAME : jurracdino
 ## <a> https://www.acmicpc.net/user/jurracdino
+  
+  # 구버전입니다.
 
